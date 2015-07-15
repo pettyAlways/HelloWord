@@ -1,0 +1,10 @@
+Enter file contents here
+public HelloWorld {
+    private String showstr = "";
+    public HelloWorld() {
+        showstr = "it's just a test!";
+    }
+    public String toShow() {
+        return showstr;
+    }
+}
